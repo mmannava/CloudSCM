@@ -8,7 +8,7 @@
 
 * The app has been deployed here
 
-* [https://cloud-metrics-manasa-mannava.herokuapp.com/](https://cloud-metrics-manasa-mannava.herokuapp.com/)
+* [https://cloudscm-manasa-mannava.herokuapp.com/](https://cloudscm-manasa-mannava.herokuapp.com/)
 
 * Note: the shield ui script might be blocked when viewing the application from the heroku app deployment url. So please unblock and load the script on the browser.
 
