@@ -4,6 +4,6 @@
 
 * The application running on localhost looks like this,
 
-![Cloud](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/Cloud.PNG)
+![Cloud](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/Cloud.GIF)
 
 
