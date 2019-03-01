@@ -14,19 +14,19 @@
 * To run the application locally,
 
 1) Clone the repo
-2) Navigate to the app folder
-3) run
+
+2) run
 
 ```
 npm install
 ```
 to install the node modules.
 
-4) run 
+3) run 
 
 ```
 npm start 
 ```
-to start running the application locally on port : 5678.
+to start running the application on localhost port : 5678 (http://localhost:5678/)
 
 
