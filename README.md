@@ -22,7 +22,7 @@ npm install
 ```
 to install the node modules.
 
-3) run 
+3) then run 
 
 ```
 npm start 
