@@ -8,7 +8,7 @@
 
 * The app has been deployed on heroku : [https://cloudscm-manasa-mannava.herokuapp.com/](https://cloudscm-manasa-mannava.herokuapp.com/)
 
-* Note: the shield ui script might be blocked when viewing the application from the heroku app deployment url. So please unblock and load the script on the browser.
+* Note: the shield ui script might be blocked when viewing the application from the heroku app deployment url. So please unblock and load the script on the browser to specifically load the shield ui script to view the bar chart.
 
 
 
