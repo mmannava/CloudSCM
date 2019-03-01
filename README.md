@@ -11,4 +11,22 @@
 * Note: the shield ui script might be blocked when viewing the application from the heroku app deployment url. So please unblock and load the script on the browser to specifically load the shield ui script to view the bar chart.
 
 
+* To run the application locally,
+
+1) Clone the repo
+2) Navigate to the app folder
+3) run
+
+```
+npm install
+```
+to install the node modules.
+
+4) run 
+
+```
+npm start 
+```
+to start running the application locally on port : 5678.
+
 
