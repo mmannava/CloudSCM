@@ -2,6 +2,11 @@
 <html lang="en">
 <head>
  <% include partials/head %> 
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 <body>
 <% include partials/menu %>
@@ -10,18 +15,28 @@
   <h2><%= page %></h2><br>
   <div class="row">
     <div class="col-sm-4">
-      <h4>Service capability measure</h4>
-      
+    <div class="panel panel-default">
+      <div class="panel-heading">Baseline SCM</div>
+      <div class="panel-body">
+        <div class="progress">
+          <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%;background-color:#90EE90">
+            <span class="sr-only">70% Complete</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
     </div>
     <div class="col-sm-4">
       <h4>Compute operations Rating</h4>
-      
     </div>
     <div class="col-sm-4">
       <h4>File operations Rating</h4>
       
     </div>
+    
   </div>
+
 </div>
 
 </body>
