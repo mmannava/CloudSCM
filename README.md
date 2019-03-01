@@ -6,7 +6,7 @@
 
 ![Cloud](https://github.com/mmannava/HTTP-VERBS-Req-Res/blob/master/Cloud.GIF)
 
-* The app has been deployed here
+* The app has been deployed on heroku
 
 * [https://cloudscm-manasa-mannava.herokuapp.com/](https://cloudscm-manasa-mannava.herokuapp.com/)
 
